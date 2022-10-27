@@ -9,4 +9,4 @@ U CAN SHOW UR OUT OF SYLLABUS CODING SKILLS HERE!
 - [PYTHON](https://github.com/GIND123/Extra-Mile/tree/main/PYTHON)
 - RUST
 - JAVA
-- C
+- [C](https://github.com/GIND123/Extra-Mile/tree/main/C)
