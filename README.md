@@ -7,7 +7,7 @@ U CAN SHOW UR OUT OF SYLLABUS CODING SKILLS HERE!
 
 ### <u>*CONTENTS*</u>
 - [PYTHON](https://github.com/CSI-SCT-SB/Extra-Mile/tree/main/PYTHON)
-- [RUST](https://github.com/GIND123/Extra-Mile/tree/main/RUST)
+- [RUST](https://github.com/CSI-SCT-SB/Extra-Mile/tree/main/RUST)
 - [JAVA](https://github.com/GIND123/Extra-Mile/tree/main/JAVA)
 - [C](https://github.com/GIND123/Extra-Mile/tree/main/C)
 
