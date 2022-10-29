@@ -1,1 +1,1 @@
-### Add only Python Codes here via Googlee colab with output!
+### Add only Python Codes here via Google colab with output!
