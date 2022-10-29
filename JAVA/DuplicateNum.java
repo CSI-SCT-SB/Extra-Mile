@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/find-the-duplicate-number/
+
 import java.util.Arrays;
 
 public class DuplicateNum {
