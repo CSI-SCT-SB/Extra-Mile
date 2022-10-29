@@ -1,4 +1,4 @@
-def Remove(l):
+def dup(l):
     final_list = []
     for num in l:
         if num not in final_list:
@@ -11,4 +11,4 @@ for i in range(n):
     x=int(input())
     l.append(x)
 print("List before: ",l)
-print("List after Removing Duplicates: ",Remove(l))
+print("List after Removing Duplicates: ",dup(l))
