@@ -1,3 +1,5 @@
+#Program to create a qrcode using python
+
 import qrcode
 
 url = input("Enter url: ")
