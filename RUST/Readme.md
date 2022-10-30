@@ -3,3 +3,4 @@
 - [encodebase64](https://github.com/HKRcodes/Extra-Mile/blob/main/RUST/encodebase64.rs)
 - [largeststr](https://github.com/HKRcodes/Extra-Mile/blob/main/RUST/largeststr.rs)
 - [simplerustcode](https://github.com/HKRcodes/Extra-Mile/blob/main/RUST/simplerustcode.rs)
+- [dfs](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/RUST/dfs.rs)
