@@ -23,4 +23,8 @@
 - [pascal](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/JAVA/pascal.java)
 - [saddle](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/JAVA/saddle.java)
 - [saddle_1](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/JAVA/saddle_1.java)
-- [selection_sort](
+- [selection_sort](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/JAVA/selection_sort.java)
+- [simplepyramid](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/JAVA/simplepyramid.java)
+- [smith](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/JAVA/smith.java)
+- [sorting](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/JAVA/sorting.java)
+- [sum_square](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/JAVA/sum_square.java)
