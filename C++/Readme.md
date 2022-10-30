@@ -13,3 +13,4 @@
 - [main](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C%2B%2B/main.cpp)
 - [power](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C%2B%2B/power.cpp)
 - [quotient](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C%2B%2B/quotient.cpp)
+- [simplepyramid](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C%2B%2B/simplepyramid.cpp)
