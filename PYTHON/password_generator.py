@@ -1,3 +1,5 @@
+#Program to generate password using python random function
+
 import random
 
 lower = "abcdefghijklmnopqrstuvwxyz"

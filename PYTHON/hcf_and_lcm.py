@@ -1,4 +1,4 @@
-
+#Program to find HCF and/or LCM of two numbers in python 
 def hcf(x, y):
 
     if x > y:
@@ -41,7 +41,6 @@ while (True):
         print("The lcm is ", hcf(num1, num2))
     elif (choice == 3):
         print("Exiting...")
-
         break
     else:
         print("Invalid choice, try again")
