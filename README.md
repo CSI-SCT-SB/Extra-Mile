@@ -10,4 +10,7 @@ U CAN SHOW UR OUT OF SYLLABUS CODING SKILLS HERE!
 - [RUST](https://github.com/CSI-SCT-SB/Extra-Mile/tree/main/RUST)
 - [JAVA](https://github.com/GIND123/Extra-Mile/tree/main/JAVA)
 - [C](https://github.com/GIND123/Extra-Mile/tree/main/C)
+- [SWIFT](https://github.com/CSI-SCT-SB/Extra-Mile/tree/main/SWIFT)
+- [HTML](https://github.com/CSI-SCT-SB/Extra-Mile/tree/main/HTML)
+- [C++](https://github.com/CSI-SCT-SB/Extra-Mile/tree/main/C%2B%2B)
 
