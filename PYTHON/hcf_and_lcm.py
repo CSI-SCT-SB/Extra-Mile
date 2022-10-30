@@ -1,4 +1,4 @@
-
+#Program to find HCF and/or LCM of two numbers in python 
 def hcf(x, y):
 
     if x > y:
