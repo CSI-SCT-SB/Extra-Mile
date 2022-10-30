@@ -14,7 +14,7 @@
 - [Numberpyramid](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C/Numberpyramid.c)
 - [ODDSEVENS](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C/ODDSEVENS.c)
 - [ParenthesisBalancing](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C/ParenthesisBalancing.c)
-- [QuadraticEqn](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C/Quadraticeqn.c)
+- [QuadraticEqn](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C/QuadraticEqn.c)
 - [Reversenum](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C/Reversenum.c)
 - [Source_code](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C/Source_code.c)
 - [TESTSERIES](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C/TESTSERIES.c)
