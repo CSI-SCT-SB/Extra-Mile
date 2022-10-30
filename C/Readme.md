@@ -10,3 +10,4 @@
 - [DRUNKALK](https://github.com/HKRcodes/Extra-Mile/blob/main/C/DRUNKALK.c)
 - [DuckNumber](https://github.com/Aswinnnnnn/Extra-Mile/blob/main/C/DuckNumber.c)
 - [HotelManagement](https://github.com/Aswinnnnnn/Extra-Mile/blob/main/C/HotelManagement.c)
+- [MagicNumber](https://github.com/Aswinnnnnn/Extra-Mile/blob/main/C/MagicNumber.c)
