@@ -310,7 +310,6 @@ struct library_system {
 };
 
 int main() {
-    freopen("c.in", "rt", stdin);
     library_system library;
     library.run();
     return 0;
