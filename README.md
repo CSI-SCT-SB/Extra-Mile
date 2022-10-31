@@ -13,4 +13,4 @@ U CAN SHOW UR OUT OF SYLLABUS CODING SKILLS HERE!
 - [SWIFT💨](https://github.com/CSI-SCT-SB/Extra-Mile/tree/main/SWIFT)
 - [HTML🔗](https://github.com/CSI-SCT-SB/Extra-Mile/tree/main/HTML)
 - [C++👨🏻‍💻](https://github.com/CSI-SCT-SB/Extra-Mile/tree/main/C%2B%2B)
-
+- [Bash📦](https://github.com/CSI-SCT-SB/Extra-Mile/tree/main/MATH_BASH_SCRIPTS)
