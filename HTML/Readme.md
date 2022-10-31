@@ -7,3 +7,4 @@
 - [login](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/HTML/login.html)
 - [search](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/HTML/search.html)
 - [signup](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/HTML/signup.html)
+- [orderedListing](https://github.com/Annamjohn/Extra-Mile/blob/main/HTML/orderedListing.html)
