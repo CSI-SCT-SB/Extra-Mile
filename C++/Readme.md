@@ -29,3 +29,5 @@
 - [GCD_NonRecursive](https://github.com/Annamjohn/Extra-Mile/blob/main/C%2B%2B/GCD_NonRecursive)
 - [SD](https://github.com/Annamjohn/Extra-Mile/blob/main/C%2B%2B/SD.CPP)
 - [Student_Info](https://github.com/Annamjohn/Extra-Mile/blob/main/C%2B%2B/Student_Info.cpp)
+- [Mult_Table](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C%2B%2B/Mult_Table.cpp)
+- [MinStack](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C%2B%2B/MinStack.cpp)
