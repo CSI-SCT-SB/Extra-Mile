@@ -5,3 +5,5 @@
 - [login](https://github.com/aan2907/Extra-Mile/blob/main/HTML/login.html)
 - [index](https://github.com/aan2907/Extra-Mile/blob/main/HTML/index.html)
 - [login](https://github.com/aan2907/Extra-Mile/blob/main/HTML/login.html)
+- [search](https://github.com/aan2907/Extra-Mile/blob/main/HTML/search.html)
+- [signup](https://github.com/aan2907/Extra-Mile/blob/main/HTML/signup.html)
