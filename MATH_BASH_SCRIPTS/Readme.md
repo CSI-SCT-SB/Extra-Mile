@@ -10,3 +10,4 @@
 - [factorial](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/MATH_BASH_SCRIPTS/factorial.sh)
 - [fibonacci](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/MATH_BASH_SCRIPTS/fibonacci.sh)
 - [hextodec](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/MATH_BASH_SCRIPTS/hextodec.sh)
+- [multiplication](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/MATH_BASH_SCRIPTS/multiplication.sh)
