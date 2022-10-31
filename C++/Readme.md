@@ -23,5 +23,7 @@
 - [STL_CPP](https://github.com/Annamjohn/Extra-Mile/tree/main/C%2B%2B/STL_CPP)
 - [1's Complement](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C%2B%2B/1's%20Complement.cpp)
 - [2'nd Complement](https://github.com/Annamjohn/Extra-Mile/blob/main/C%2B%2B/2's_Compliment.cpp)
+- [Ascii](https://github.com/Annamjohn/Extra-Mile/blob/main/C%2B%2B/Ascii.cpp)
+- [Celsius_Fahrenheit](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C%2B%2B/Celsius_Fahrenheit.cpp)
 
 
