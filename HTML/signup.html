@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+
+<html lang="en-us" dir="ltr">
+  <head>
+    <title>Tweet Sentiment Analysis</title>
+    <link rel="stylesheet" type="text/css" href="/static/admin/css/base.css" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="/static/admin/css/nav_sidebar.css"
+    />
+    <script src="/static/admin/js/nav_sidebar.js" defer></script>
+
+    <link rel="stylesheet" type="text/css" href="/static/admin/css/login.css" />
+
+    <meta
+      name="viewport"
+      content="user-scalable=no, width=device-width, initial-scale=1.0, maximum-scale=1.0"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="/static/admin/css/responsive.css"
+    />
+
+    <meta name="robots" content="NONE,NOARCHIVE" />
+  </head>
+
+  <body class="login" data-admin-utc-offset="0">
+    <!-- Container -->
+    <div id="container">
+      <!-- Header -->
+      <div id="header">
+        <div id="branding">
+          <h1 id="site-name">Tweet Sentiment Analysis</a></h1>
+        </div>
+      </div>
+      <!-- END Header -->
+    
+      <div class="main shifted" id="main">
+        <div class="content">
+          <!-- Content -->
+          <div id="content" class="colM">
+            <div id="content-main">
+            
+              <form
+                action="/login.html"
+                method="post"
+                id="signup-form"
+              >
+              {% csrf_token %}
+                
+                <div class="form-row">
+                    {% csrf_token %}
+                  <label class="required" for="username">Your Name:</label>
+                  <input
+                    type="text"
+                    name="username"
+                    autofocus
+                    autocapitalize="none"
+                    autocomplete="username"
+                    maxlength="150"
+                    required
+                    id="username"
+                  />
+                </div>
+                <div class="form-row">
+                {% csrf_token %}
+                  <label class="required" for="email">Email:</label>
+                  <input
+                    type="text"
+                    name="email"
+                    autofocus
+                    autocapitalize="none"
+                    autocomplete="email"
+                    maxlength="150"
+                    required
+                    id="email"
+                  />
+                </div>
+                
+                <div class="form-row">
+                {% csrf_token %}
+                  <label class="required" for="password">Password:</label>
+                  <input
+                    type="password"
+                    name="password"
+                    autocomplete="current-password"
+                    required
+                    id="password"
+                  />
+                  <input type="hidden" name="next" value="/admin/" />
+                </div>
+
+                
+
+                <div class="submit-row">
+                {% csrf_token %}
+                  <input type="submit" value="Signup" href='/login.html' />
+                </div>
+              </form>
+            </div>
+            
+
+            <br class="clear" />
+          </div>
+          <!-- END Content -->
+          <div id="footer"></div>
+        </div>
+      </div>
+    </div>
+    <!-- END Container -->
+  </body>
+</html>
