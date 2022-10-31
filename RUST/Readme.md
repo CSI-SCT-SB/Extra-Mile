@@ -1,8 +1,8 @@
 # Add only RUST Codes here!
 ### RUST codes present in this section :
-- [encodebase64](https://github.com/HKRcodes/Extra-Mile/blob/main/RUST/encodebase64.rs)
-- [largeststr](https://github.com/HKRcodes/Extra-Mile/blob/main/RUST/largeststr.rs)
-- [simplerustcode](https://githuseb.com/HKRcodes/Extra-Mile/blob/main/RUST/simplerustcode.rs)
+- [encodebase64](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/RUST/encodebase64.rs)
+- [largeststr](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/RUST/largeststr.rs)
+- [simplerustcode](https://githuseb.com/CSI-SCT-SB/Extra-Mile/blob/main/RUST/simplerustcode.rs)
 - [dfs](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/RUST/dfs.rs)
 - [bfs](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/RUST/bfs.rs)
 - [bubble](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/RUST/bubble.rs)
