@@ -1,4 +1,3 @@
-//Perfect number: A number(positive) which is equal to the sum of its divisors , except itself.
 
 #include<stdio.h>
 
