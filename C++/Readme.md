@@ -18,3 +18,5 @@
 - [sum of series](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C%2B%2B/sum%20of%20series.cpp)
 - [string_upper_lower](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C%2B%2B/string_upper_lower.cpp)
 - [seperate_even_odd](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C%2B%2B/seperate_even_odd.cpp)
+- [DSA](https://github.com/Annamjohn/Extra-Mile/tree/main/C%2B%2B/DSA)
+- [HackerRank](https://github.com/Annamjohn/Extra-Mile/tree/main/C%2B%2B/HackerRank)
