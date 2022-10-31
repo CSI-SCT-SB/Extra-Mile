@@ -1,0 +1,67 @@
+{%extends 'index.html' %} {% block content %} {% load static %} <link
+rel="stylesheet" href="{% static 'search.css' %}?{% now " U " %}">
+
+<!---{% for playlist in CONTAINER %}
+<div class="row">
+{% for card in playlist %}
+    <div class="column">
+        <div class="card">
+            <img class="cardimg" src="{{ card.thumbnails.0 }}" alt="" srcset=""></img>
+            <div class="container">    
+                <span class='label albumtitle bond-to-two-lines'>{{ card.title }}</span>
+                <span class='label albumauthor bond-to-two-lines'>By {{ card.channel }}</span>
+            </div>
+        </div>
+        <br>
+    </div>
+    <br>
+</div>
+{% endfor %}
+
+{% endfor %}-->
+<div class="main">
+ 
+{% for playlist in CONTAINER %}
+
+  <!--cards -->
+  {% for card in playlist %}
+  
+  <div class="card">
+    <div class="image">
+        <img class="cardimg" src="{{ card.thumbnails.0 }}" alt="" srcset=""></img>
+    </div>
+    <div class="title">
+      <h1>{{ card.title }}</h1>
+    </div>
+    <div class="des">
+      <p>By {{ card.channel }}</p>
+      <button id="playvideo" onclick="playsong('https://www.youtube-nocookie.com/embed/','{{card.url_suffix}}?enablejsapi=1&rel=0&iv_load_policy=3&fs=0&controls=0&disablekb=1&autoplay=1&vq=medium')"><img class="play" src="https://cdn.discordapp.com/attachments/768083738848133130/769476261181128734/image_1.png" alt=""></button>
+    </div>
+    
+  </div>
+  
+  {% endfor %}
+
+  {% endfor %}
+</div>
+
+<script>
+  function playsong(site,s2)
+  {
+    var txt=site+s2.substring(9);
+
+    var x=document.getElementById('video');
+    x.src=txt;
+    x.allow="autoplay"
+    var img_array = [
+        "https://cdn.discordapp.com/attachments/768083738848133130/773142731144560640/play-circle.svg ",
+        "https://cdn.discordapp.com/attachments/768083738848133130/773873949082910751/pause-circle.svg",
+      ];
+    var playButton = document.getElementById("play-button");
+    playButton.innerHTML = "PAUSE";
+
+  }
+</script>
+
+{%endblock%}
+
