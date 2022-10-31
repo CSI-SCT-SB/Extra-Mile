@@ -28,3 +28,4 @@
 - [smith](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/JAVA/smith.java)
 - [sorting](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/JAVA/sorting.java)
 - [sum_square](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/JAVA/sum_square.java)
+- [celcius](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/JAVA/celsius.java)
