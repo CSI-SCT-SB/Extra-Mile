@@ -27,4 +27,5 @@
 - [Celsius_Fahrenheit](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C%2B%2B/Celsius_Fahrenheit.cpp)
 - [File_rw](https://github.com/Annamjohn/Extra-Mile/blob/main/C%2B%2B/File_rw.cpp)
 - [GCD_NonRecursive](https://github.com/Annamjohn/Extra-Mile/blob/main/C%2B%2B/GCD_NonRecursive)
-
+- [SD](https://github.com/Annamjohn/Extra-Mile/blob/main/C%2B%2B/SD.CPP)
+- [Student_Info](https://github.com/Annamjohn/Extra-Mile/blob/main/C%2B%2B/Student_Info.cpp)
