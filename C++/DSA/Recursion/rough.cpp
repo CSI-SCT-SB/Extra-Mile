@@ -1,0 +1,1 @@
+//check the file extension c or cpp before pasting code here
