@@ -25,5 +25,6 @@
 - [2'nd Complement](https://github.com/Annamjohn/Extra-Mile/blob/main/C%2B%2B/2's_Compliment.cpp)
 - [Ascii](https://github.com/Annamjohn/Extra-Mile/blob/main/C%2B%2B/Ascii.cpp)
 - [Celsius_Fahrenheit](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C%2B%2B/Celsius_Fahrenheit.cpp)
-
+- [File_rw](https://github.com/Annamjohn/Extra-Mile/blob/main/C%2B%2B/File_rw.cpp)
+- [GCD_NonRecursive](https://github.com/Annamjohn/Extra-Mile/blob/main/C%2B%2B/GCD_NonRecursive)
 
