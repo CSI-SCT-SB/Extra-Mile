@@ -22,3 +22,4 @@
 - [RECURSION](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C/RECURSION.c)
 - [agecalculator](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C/agecalculator.c)
 - [dec_to_binary](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C/dec_to_binary.c)
+- [roman](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C/roman.c)
