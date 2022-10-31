@@ -7,3 +7,5 @@
 - [binary2Dec](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/MATH_BASH_SCRIPTS/binary2decimal.sh)
 - [deci2Hex](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/MATH_BASH_SCRIPTS/dec2hex.sh)
 - [evenodd](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/MATH_BASH_SCRIPTS/evenodd.sh)
+- [factorial](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/MATH_BASH_SCRIPTS/factorial.sh)
+- [fibonacci](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/MATH_BASH_SCRIPTS/fibonacci.sh)
