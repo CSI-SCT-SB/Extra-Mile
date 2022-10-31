@@ -5,3 +5,5 @@
 - [amstrong1](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/MATH_BASH_SCRIPTS/armstrong.sh)
 - [amstrong2](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/MATH_BASH_SCRIPTS/armstrong_2.sh)
 - [binary2Dec](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/MATH_BASH_SCRIPTS/binary2decimal.sh)
+- [deci2Hex](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/MATH_BASH_SCRIPTS/dec2hex.sh)
+- [evenodd](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/MATH_BASH_SCRIPTS/evenodd.sh)
