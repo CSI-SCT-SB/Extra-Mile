@@ -20,3 +20,8 @@
 - [seperate_even_odd](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C%2B%2B/seperate_even_odd.cpp)
 - [DSA](https://github.com/Annamjohn/Extra-Mile/tree/main/C%2B%2B/DSA)
 - [HackerRank](https://github.com/Annamjohn/Extra-Mile/tree/main/C%2B%2B/HackerRank)
+- [STL_CPP](https://github.com/Annamjohn/Extra-Mile/tree/main/C%2B%2B/STL_CPP)
+- [1's Complement](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C%2B%2B/1's%20Complement.cpp)
+- [2'nd Complement](https://github.com/Annamjohn/Extra-Mile/blob/main/C%2B%2B/2's_Compliment.cpp)
+
+
