@@ -13,3 +13,5 @@
 - [multiplication](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/MATH_BASH_SCRIPTS/multiplication.sh)
 - [prime](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/MATH_BASH_SCRIPTS/prime..sh)
 - [simplecalc](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/MATH_BASH_SCRIPTS/simplecalc.sh)
+- [subtraction](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/MATH_BASH_SCRIPTS/subtraction.sh)
+- [table](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/MATH_BASH_SCRIPTS/table.sh)
